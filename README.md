@@ -1,5 +1,12 @@
-# Artifacts for the _JIB Bahmni distribution_
-This repository maintains the 'distro POM' for the _JIB Bahmni distribution_.
+![alt tag](readme/dsjmc-rect-logo.png)
+
+# Dr. Salam Jibrel Medical Center distribution
+
+_The Bahmni distribution of Dr. Salam Jibrel Medical Center fertility clinic._
+
+-----
+
+This repository maintains the 'distro POM' for the _Dr. Salam Jibrel Medical Center distribution_ or _'JIB' Bahmni distribution_.
 
 It downloads and brings in one place all artifacts needed by the distribution, simply run:
 ```
