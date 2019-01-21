@@ -3,7 +3,7 @@
   <groupId>net.mekomsolutions</groupId>
   <artifactId>bahmni-distro-jib</artifactId>
   <name>JIB distribution</name>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
 
   <developers>
@@ -29,11 +29,11 @@
     <openMRSVersion>2.1.3</openMRSVersion>
     
     <!-- Configs -->
-    <openmrsconfigVersion>1.0.0-SNAPSHOT</openmrsconfigVersion>
-    <bahmniconfigVersion>1.0.0-SNAPSHOT</bahmniconfigVersion>
+    <openmrsconfigVersion>1.0.0</openmrsconfigVersion>
+    <bahmniconfigVersion>1.0.0</bahmniconfigVersion>
 
     <!-- Bahmni Apps -->
-    <bahmniappsRevision>0.91.x</bahmniappsRevision>
+    <bahmniappsRevision>9c3667d</bahmniappsRevision>
     
     <!-- In dev -->
 
