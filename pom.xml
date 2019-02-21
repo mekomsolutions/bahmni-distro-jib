@@ -3,7 +3,7 @@
   <groupId>net.mekomsolutions</groupId>
   <artifactId>bahmni-distro-jib</artifactId>
   <name>JIB distribution</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
 
   <developers>
